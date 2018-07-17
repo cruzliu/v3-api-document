@@ -3,7 +3,6 @@
  * @apiName GetTabBar
  * @apiGroup TabBar
  *
- * @apiParam {Integer} device App:1, Mobile Web:2
  *
  * @apiSuccess {String} name 按鈕名稱
  * @apiSuccess {String} link 連結位置
