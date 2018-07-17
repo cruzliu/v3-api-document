@@ -25,7 +25,7 @@
 *          "pressed_image": "https://s3-us-west-1.amazonaws.com/s3.buy123.com.tw/bottom_bar/pressed_image/cd1c054925fb4d86d7ffe5dd484f2846.png"
 *        },
 *        {
-*          "name": "我的最愛12",
+*          "name": "我的最愛",
 *          "link": "https://m.buy123.com.tw/site/favorite12",
 *          "sorting": "2",
 *          "start_ts": "2018-07-03 00:00:00",
