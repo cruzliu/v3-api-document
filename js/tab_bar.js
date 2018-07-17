@@ -1,7 +1,7 @@
 /**
- * @api {get} /api/bottomBar_api 取得bottom bar當下檔期資料
- * @apiName GetBottomBar
- * @apiGroup BottomBar
+ * @api {get} /api/tabBar_api 取得 tab bar當下檔期資料
+ * @apiName GetTabBar
+ * @apiGroup TabBar
  *
  * @apiParam {Integer} device App:1, Mobile Web:2
  *
