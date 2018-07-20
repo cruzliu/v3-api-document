@@ -9,7 +9,7 @@
  * @apiSuccess {String} default_image 按鈕預設圖片
  * @apiSuccess {String} pressed_image 按鈕點擊圖片
  * @apiSuccess {String} start_ts 開始日期
- * @apiSuccess {String} end_ts 結束日期.!
+ * @apiSuccess {String} end_ts 結束日期..!
  *
  * @apiSuccessExample Success-Response:
 *    {
